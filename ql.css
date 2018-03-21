@@ -1,0 +1,35 @@
+
+.ql 
+{
+	list-style-type:none;
+	padding:10px;
+	margin:10px;
+	position:absolute;
+	width:20%;
+	background-image: url("qlbg2.jfif");
+	height:auto;
+	overflow:auto;
+	border-radius:25px;
+	margin-top:1300px;
+	
+	
+}
+
+
+
+li.qlli a
+{
+	display:block;
+	padding: 10px 10px;
+	text-decoration:none;
+	font-family: 'Cabin', sans-serif;
+	font-size:25px;
+	border-bottom: 2px solid gray /*dotted*/;
+}
+
+li.qlli a:hover
+{
+	background-color:goldenrod;
+	color:white;
+	
+}

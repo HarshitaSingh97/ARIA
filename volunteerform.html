@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Volunteer form</title>
+<meta charset="UTF-8">
+<link rel="icon" href="C:\Users\harsh\Desktop\CSE 3rd Sem\Web Technology 1\Project\Img\paw.jpg"/>
+	<link rel="stylesheet" type="text/css" href="volunteer.css">
+	<link rel="stylesheet" type="text/css" href="hdng.css">
+	<link rel="stylesheet" type="text/css" href="footer.css">
+<link href="https://fonts.googleapis.com/css?family=Acme|Cabin|Chewy|Coiny|Sansita+One" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Raleway|Ubuntu" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Acme|Cabin|Chewy|Coiny|Sansita+One" rel="stylesheet">
+</head>
+</head>
+<body>
+<div class = "fix" ></div>
+
+<ul class="navbar">
+  <li><a  href="AdoptApal - Final.html">Home</a></li>
+  <li><a href="RnA - Final.html">Rescue and Adoption (RnA)</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn" onclick="myFunction()">Health &amp Care</a>
+    <div class="dropdown-content" id="myDropdown">
+      <a href="healthncaredog.html">Puppy Basics</a>
+      <a href="cat.html">Cat</a>
+      <a href="hare.html">Hare</a>
+      <a href="horse.html">Horse</a>
+    </div>
+  </li>
+  <li><a href="faqs.html">FAQs</a></li>
+  <li><a href="DonatePage.html">Donate</a></li>
+  <li><a href="events.html" class="selected" >Events</a></li>
+  <li><a href="aboutus.html">About Us</a></li>
+  <li><a href="contactus.html">Contact Us</a></li>   
+</ul>
+<div class="ban">
+
+<img src="AdoptPageBanner.jpg" alt="Image"  class="adoptbanner">
+
+<h2 class="words" style="z-index:1;">Volunteer</h2>
+
+</div>
+
+<div class="fonts dondiv">
+
+
+
+<h1 align="center" style="height:5px;">Volunteer Form</h1>
+<div class="box"><div class="form">
+<p style="margin-left:30px;margin-right:30px;">Hiya!! Thankyou for taking some time off for these lovelies! We would love to have you at our events and it is going to be a BLAST! Your wittle pet is gonna love it! <br>But, before you're all set and done, there is one tiny little step.<br>We have requests and registrations pouring in from all parts of the country but sadly we have limited seats. So hurry up! Go ahead and register as soon as you can so that we can make preparations for your arrival!<br><br>Hoping to see you there!</p>
+<form action= "volunteer.php" method= "post" style="margin-top:30px;">
+    <div class="row">
+	<label>    
+    <span style="color:white;">First Name:</span><span style="color:red;">*</span></label>	<input type="text" size="30" name="First_Name" placeholder=" First" required="required"/><br>
+    <br><br><br>
+    <label>    
+    <span style="color:white;">Last Name:</span><span style="color:red;">*</span></label>	<input type="text" size="30" name="Last_Name" placeholder=" Last" required="required"/><br>
+    <br><br><br>
+	<label><span style="color:white;">Event:</span><span style="color:red;">*</span></label><select class="event" id="event" name="Event" style="font-size:16px;"required="required">
+                           <option value="">Select</option>
+                           <option value="Seminar">Seminar</option>
+                           <option value="meetngreet">Meet and Greet</option>
+                           <option value="dogE">All-dogs event</option>
+                           <option value="catE">All-cats event</option></select><br><br><br><br>
+	<label><span style="color:white;">E-mail id:</span><span style="color:red;">*</span> <span style="color:white;">format(forexample@domain.com)</span></label>	<input type="email" name="Email_Id" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$"  size="30" placeholder=" Enter Email Id" required="required"/><br>
+    <br><br><br><br>
+    <label><span style="color:white;">Phone Number:</span><span style="color:red;">*</span> <span style="color:white;">format(xxx-xxx-xxxx)</span></label>	<input type="tel" maxlength="10" name="Phone_Number" pattern="[0-9]{10}" size="30" placeholder=" Enter Ph No." required="required"/><br>
+    <br><br></div><br><span style="color:red;font-size:15px;">* indicates required field</span>
+    <input type="submit" style="cursor:pointer;" name="signup" value="Register"/></form>
+</div>
+</div>
+</div>
+<div class="footer"><pre>				Copyright &copy 2016. All Rights Reserved.								Site Developed by PES students</pre></div>
+
+</body>
+</html>

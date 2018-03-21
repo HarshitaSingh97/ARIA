@@ -1,0 +1,96 @@
+.fonts
+{
+	font-family: 'Cabin', sans-serif;
+	font-size: 30px;
+	
+}
+
+.dondiv
+{
+	height: auto;
+	width: 95%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 25px;
+    margin: 50px;
+	
+}
+
+.donationbanner
+{
+	
+	background-image: url("donation1.jfif");
+	background-repeat: no-repeat;
+	width:800px;
+	height:300px;
+}
+
+
+div h1
+{
+	text-align:center;
+	font-size:75px;
+	display:inline;
+	
+}
+
+.image
+{
+	
+	float:right;
+    display: inline-block;
+	height:auto;
+    width: 500px;
+   
+    padding:3px;
+	margin:20px;
+	margin-right:20px;
+	margin-top:200px;
+	
+	
+}
+
+div h3
+{
+	
+	font-family: 'Acme', sans-serif;
+	font-size:40px;
+	text-decoration: none;
+	border-bottom: 3px solid #ff9f12;
+	
+	
+}
+
+.hline
+{
+	color:rgb(105,105,105);
+	text-decoration: none;
+	border-bottom: 3px solid #ff9f12;
+	font-size:35px;
+	
+}
+
+.hlinetext
+{
+	color:rgb(105,105,105);
+	text-decoration: none;
+	font-size:25px;
+}
+
+.donbox
+{
+	height:auto;
+	width:70%;
+	background-color:wheat;
+	border:none;
+	padding:20px;
+	margin:10px;
+	
+}
+
+.donationheads
+{
+	color:rgb(128,128,0);
+	font-family: 'Sansita One', cursive;
+	font-size:50px;
+}
+

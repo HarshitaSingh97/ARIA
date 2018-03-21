@@ -1,0 +1,45 @@
+h1{
+	margin: 20px;
+	margin-top:20px;
+	margin-left:50px;
+
+	
+	
+}
+
+div.inbox{
+	width: 1800px;
+	height:400px;
+	/*float:right;
+    */}
+div.collage{
+	width:1000px;
+	height:300px;
+	float:left;
+	border:1px solid black;
+}
+div.box{
+	
+	width: 1800px;
+	height:1000px;
+	padding: 25px;
+    margin: 20px;
+	margin-top:20px;
+	margin-right:20px;
+
+	
+}
+.para{
+	margin-top:100px;
+	width:500px;
+	float:right;
+	height:200px;
+	margin-top:20px;
+	margin-left:80px;
+	margin-right:5px;
+	
+}
+.n{
+	color:red;
+	
+}

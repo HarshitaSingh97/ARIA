@@ -1,0 +1,81 @@
+div.box{
+	width: 1800px;
+	height:auto;
+	
+    padding: 25px;
+    margin: 20px;
+	margin-top:20px;
+	margin-right:20px;
+	
+	
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 25px;
+    margin: 20px;
+	background-color: white;
+	border-radius:25px;
+	margin-top:20px;
+	margin-left:80px;
+	
+	
+	
+}
+.adoption-application-guide{
+	width:1800px;
+	border:2px solid black;
+	height:100px;
+	display:block;
+	font-family: 'Comfortaa', cursive;
+	font-size: 15px;
+	width:100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    /*overflow: hidden;
+    *//*background-color: rgba(500,0,40,1);
+	*/
+	background-image:url("darkgray.png");
+	color:white;
+	clip-path: polygon(5% 5%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%);
+
+}
+
+    .adoption-application-guide li  {
+		
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+	margin-left:100px;
+    padding: 14px 30px;
+    text-decoration: none;
+    }
+
+.fonts
+{
+	/*font-family: 'Cabin', sans-serif;
+	*/
+	font-family: 'Comfortaa', cursive;
+	font-size: 30px;
+	/*font-weight:bold;
+	*/
+	
+	
+}
+
+.adoptbanner
+{
+	position:relative;
+	width:100%;
+	position:relative;z-index:-1;
+}
+
+div  h2.words
+{
+	position:absolute;
+	top:480px;
+	left:250px;
+	font-size:125px;
+	color:white;
+	font-family: 'Ubuntu', sans-serif;
+	border-bottom:none;
+}

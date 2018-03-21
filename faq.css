@@ -1,0 +1,90 @@
+div.box{
+	width:1800px;
+	height:auto;
+	
+    padding:30px;
+    margin:60px;
+	
+	}
+.faq{
+	
+	width: 1800px;
+	height:auto;
+    border:1px solid black;
+	background-image:url("PawBanner7.jpg");
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 25px;
+	margin-left:50px;
+	margin-bottom:30px;
+	padding-bottom:65px;
+	cursor:pointer;
+	color:white;
+	transition:0.3s
+}
+.ans{
+	width: 1800px;
+	height:auto;
+    padding:10px;
+	border:1px solid black;
+	background-image:url("PawBanner7.jpg");
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 25px;
+	cursor:pointer;
+	color:white;
+	transition:0.3s
+	
+	
+}/*
+#ans1{	height:150px;border:2px solid black;}
+#ans2{	height:75px;border:2px solid black;}
+#ans3{	height:75px;border:2px solid black;}
+#ans4{	height:75px;border:2px solid black;}
+#ans5{	height:150px;border:2px solid black;}
+#ans6{	height:50px;border:2px solid black;}
+#ans7{	height:100px;border:2px solid black;}
+#ans8{	height:150px;border:2px solid black;}
+#ans9{	height:120px;border:2px solid black;}
+#ans10{	height:30px;border:2px solid black;}*/
+
+
+.adoptbanner
+{
+	position:relative;
+	width:100%;
+	position:relative;z-index:-1;
+}
+
+div  h2.words
+{
+	position:absolute;
+	top:480px;
+	left:250px;
+	font-size:125px;
+	color:white;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.fonts
+{
+	/*font-family: 'Cabin', sans-serif;
+	*/
+	font-family: 'Comfortaa', cursive;
+	font-size: 30px;
+	font-weight:bold;
+}
+
+
+.faq:hover
+{
+	transform: translateY(-20px);
+	
+}
+
+.ans:hover
+{
+	transform: translateY(-20px);
+	
+}
+
+
+

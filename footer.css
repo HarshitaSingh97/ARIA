@@ -1,0 +1,138 @@
+.footer
+    {
+
+        display: flex;
+        height: 250px;
+        width:100%;
+        background-color:  #082941;
+       /* background-color: black; */
+        /*color: slategrey;*/
+        padding-left: 0px;
+        padding-top: 75px;
+        color: slategrey;
+        
+    } 
+    
+    .info
+    {
+        display:flex;
+        height: 150px;
+        width: 100%;
+        padding-left: 0px;
+        background-color: #082941;
+       /* background-color: coral;*/
+        color: slategrey;  
+        
+        font-size: 18px;
+       /* padding-top: 60px;
+        padding-left: 25%;
+        padding-right: 20%; */
+        text-align: center;
+    }
+
+ .copyright
+    {
+        display: flex;
+        height: 60px;
+        width: 100%;
+        background-color: rgba(8, 41, 65, 0.93);
+        padding-left:  0px; 
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: slategrey;
+        font-size: 20px;
+    }
+
+
+
+ .footermain
+    {
+
+        display: flex;
+        height: 100px;
+        width:100%;
+        background-color:  #082941;
+       /* background-color: black; */
+        /*color: slategrey;*/
+        padding-left: 0px;
+        padding-top: 30px; 
+        color: slategrey;
+        text-align: center
+        
+    }  
+    
+    
+    .copyrightmain
+    {
+        display: flex;
+        height: 50px;
+        width: 100%;
+        background-color: #082941;
+        padding-left:  0px; 
+        padding-top: 5px;
+        padding-bottom: 10px;
+        color: slategrey;
+        font-size: 20px;
+        
+    }
+
+    th
+    {
+        text-align: left; 
+        font-size: 21px;
+        height: 35px;
+        color: slategrey;
+    }
+     
+    
+    td
+    {
+        height: 35px;
+        text-align: left;
+        color: slategrey;
+        font-size: 20px;
+    }
+    
+    
+    table
+    {
+        width: 1250px;
+        
+    }
+ 
+    tr a:link
+    {
+        text-decoration: none;
+        color:slategrey;
+    }
+    
+   tr a:visited
+    {   
+        
+        text-decoration: none;
+        color:slategrey;
+        
+    }
+
+
+    tr a:hover
+    {
+        text-decoration: none; 
+        color:slategrey;
+    }
+
+
+
+    tr a:focus
+    {
+        text-decoration: none;
+        color:slategrey;
+    }
+
+
+
+
+
+
+
+

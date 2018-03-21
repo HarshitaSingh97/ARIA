@@ -1,0 +1,194 @@
+  /* body{
+		background-size:2000px 2020px ;
+	}*/
+	
+
+
+.dog1, .dog2, .dog3, .dog4 
+{
+  	 
+	color:white;
+	background-image:url("darkgray.png");box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding:30px;
+	border-radius: 25px;         
+	margin: 25px;
+    /*background-color: #ff9f12;
+    background-color: rgba(255, 159, 18, 0.3);
+    opacity: 0.5;*/
+}
+
+.cat1, .cat2, .cat3, .cat5, .hare
+{
+  	 
+	color:white;
+	background-image:url("darkgray.png");box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding:30px;
+	width:auto;
+	height:auto;
+	border-radius: 25px;
+	margin: 25px;
+	
+	
+}
+
+.cat4
+{
+    height: auto;
+    width: auto;
+     
+	color:white;
+	background-image:url("darkgray.png");box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		padding:30px;
+
+	border-radius: 25px;
+	margin: 25px;
+}
+
+
+.content2{
+	width:auto;
+    height:auto;
+	
+	/*margin-top:20px;
+	margin-right:5px;
+    margin-left:20px;*/
+	
+}
+
+
+
+/*.bath
+{
+  	border: 2px solid black;
+	font-size: 15px;
+	padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+	border-radius: 25px;
+	margin: 25px;
+	height: 500px;
+	
+}*/
+
+/*img,
+{
+    float:right;
+}
+*/
+    .horse, .vd, .hre, .ewp, .hoc, .th, .epp
+    {
+         
+        color:white;
+	background-image:url("darkgray.png");box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+       padding:30px;
+        border-radius: 25px;
+        margin: 25px;
+        /*text-align: left;*/
+        
+    }
+
+
+.nimg
+{
+    /*float:right; */
+    margin-left:50%;
+    margin-top:50px;
+    height: 20px;
+    width: 20px;
+    
+}
+
+
+
+   /* div.bath{
+	border: 2px solid black;
+	font-size: 15px;
+	padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+	border-radius: 25px;
+	margin: 25px;
+	
+	
+	
+	
+    div.train{
+	border: 2px solid black;
+	font-size: 15px;
+	padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+	border-radius: 25px;
+	margin: 25px;
+	
+	
+	}
+	
+    div.teach{
+	border: 2px solid black;
+	font-size: 15px;
+	padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+	border-radius: 25px;
+	margin: 25px;
+	
+	}*/
+	
+	.pb, .kb, .hb, .hc
+    {
+        text-align: center;
+        /*font:*/
+    
+    }
+
+
+.fonts
+{
+	/*font-family: 'Cabin', sans-serif;
+	*/
+	font-family: 'Comfortaa', cursive;
+	font-size: 30px;
+	/*font-weight:bold;
+	*/
+	
+	
+}
+
+.adoptbanner
+{
+	position:relative;
+	width:100%;
+	position:relative;z-index:-1;
+}
+
+div  h2.words
+{
+	position:absolute;
+	top:480px;
+	left:250px;
+	font-size:125px;
+	color:white;
+	font-family: 'Ubuntu', sans-serif;
+	border-bottom:none;
+	
+}
+
+.dondiv
+{
+	height: auto;
+	width: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 25px;
+    margin: 50px;
+	background-color: white;
+	border-radius:25px;
+	
+	
+}
+
+    

@@ -1,0 +1,136 @@
+.fonts
+{
+	font-family: 'Cabin', sans-serif;
+	font-size: 30px;
+	
+}
+
+div h1
+{
+	font-family: 'Chewy', cursive;
+	text-align: center;
+	font-size:100px;
+}
+
+.dondiv
+{
+	height: auto;
+	width: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 25px;
+    margin: 50px;
+	align:center;
+	border-radius:25px;
+	
+}
+ .box
+ {
+	height: auto;
+	width: auto;
+	padding:10px;
+	margin:50px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+	border-radius:25px;
+	
+ }
+ 
+
+div h3
+{
+	font-family: 'Acme', sans-serif;
+	font-size:40px;
+	text-decoration: none;
+	border-bottom: 3px solid orangered;
+	
+	
+}
+
+.hline
+{
+	/*color:rgb(105,105,105);*/
+	color:orangered;
+	text-decoration: none;
+	border-bottom: 3px solid orangered;
+	font-size:35px;
+	
+}
+
+.hlinetext
+{
+	color:rgb(105,105,105);
+	text-decoration: none;
+	font-size:25px;
+} 
+
+.names
+{
+	font-family: 'Cabin', sans-serif;
+	font-size: 50px;
+	border-bottom: 2px solid gray;
+	color:orangered;
+}
+
+.dabba
+{
+	
+	padding: 20px;
+	margin:25px;
+	/*background-color:wheat;
+	*/
+	background-image:url("darkgray.png");
+	height:auto;
+	width:auto;
+	color:white;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius:25px;
+	
+}
+
+.dabba2
+{
+	padding:20px;
+	margin:25px;
+	
+}
+
+div h1
+{
+	text-decoration:underline;
+}
+
+div h4
+{
+	font-size:50px;
+	
+}
+
+.fonts
+{
+	/*font-family: 'Cabin', sans-serif;
+	*/
+	font-family: 'Comfortaa', cursive;
+	font-size: 30px;
+	/*font-weight:bold;
+	*/
+	
+	
+}
+
+.adoptbanner
+{
+	position:relative;
+	width:100%;
+	position:relative;z-index:-1;
+}
+
+div  h2.words
+{
+	position:absolute;
+	top:480px;
+	left:250px;
+	font-size:125px;
+	color:white;
+	font-family: 'Ubuntu', sans-serif;
+	border-bottom:none;
+}

@@ -1,0 +1,123 @@
+/*body{
+	    margin: 0px;
+	
+}*/
+div.box{
+    width: 1800px;
+	height:3660px;
+	
+    /*background-image: url("PawBanner7.jpg");
+    */
+	/*background-color:orangered;
+	*/
+	border-radius:25px;
+	margin-left: 50px;
+	margin-top:20px;
+	padding:50px;
+	
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	/*transition: /*width 5s;
+	*/
+}
+.seminar{
+	width:1800px;
+	height:780px;
+	background-image:url("darkgray.png");
+	
+	    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+	border-radius: 25px;
+	color:white;
+}
+.meetngreet{
+	width:1800px;
+	height:780px;
+	background-image:url("darkgray.png");
+	
+	    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+	border-radius: 25px;
+	color:white;
+}
+.pupE{
+	width:1800px;
+	height:780px;
+	background-image:url("darkgray.png");
+	
+	    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+	border-radius: 25px;
+	color:white;
+}
+
+.catE{
+	width:1800px;
+	height:780px;
+	background-image:url("darkgray.png");
+	
+	    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+	border-radius: 25px;
+	color:white;
+}
+.para{
+	width:1130px;
+	float:left;
+	height:500px;
+	margin-top:20px;
+	margin-left:2px;
+	margin-right:5px;
+	
+}
+/*.meetngreet{  
+
+	float:right;
+	margin-left:1000px;
+	
+	
+}
+*/
+.grow{ float:left;transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.2); }
+.n{
+	color:white;
+	background-color:orangered;
+	padding:10px;
+	bottom:50px;
+	right:100px;
+	text-decoration:none;
+	border-radius:5%;
+}
+
+.fonts
+{
+	/*font-family: 'Cabin', sans-serif;
+	*/
+	font-family: 'Comfortaa', cursive;
+	font-size: 30px;
+	font-weight:bold;
+}
+
+.adoptbanner
+{
+	position:relative;
+	width:100%;
+	position:relative;z-index:-1;
+}
+
+div  h2.words
+{
+	position:absolute;
+	top:480px;
+	left:250px;
+	font-size:125px;
+	color:white;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.under
+{
+	border-bottom: 2px solid orangered;
+	font-weight:bold;
+	display:inline;
+}

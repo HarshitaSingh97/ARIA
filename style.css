@@ -1,0 +1,51 @@
+.adoptbanner
+{
+	position:relative;
+	width:100%;
+	position:relative;z-index:-1;
+}
+
+div  h2.words
+{
+	position:absolute;
+	top:480px;
+	left:250px;
+	font-size:125px;
+	color:white;
+	font-family: 'Ubuntu', sans-serif;
+	border-bottom:none;
+	
+}
+
+.dondiv
+{
+	height: auto;
+	width: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 25px;
+    margin: 50px;
+	background-color: white;
+	border-radius:25px;
+	
+	
+	
+}
+.fonts
+{
+	/*font-family: 'Cabin', sans-serif;
+	*/
+	font-family: 'Comfortaa', cursive;
+	font-size: 30px;
+	color:white;
+	/*font-weight:bold;
+	*/
+	
+	
+}
+
+.inside{
+	
+	background-image:url("darkgray.png");
+	margin:20px;
+	padding:20px;
+}

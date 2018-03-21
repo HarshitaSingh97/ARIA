@@ -1,0 +1,140 @@
+	/*body{
+		/*background: url('c:/Users/harshita/Desktop/CSE 3rd Sem/Web Technology 1/Project/Img/hmpg1.jpg') ;
+		background-repeat: no-repeat;
+		background-size:2000px 2200px ;
+		/*font-size: 1em;
+		font-family: "Arial", Times, serif;
+        color:white;
+
+	}*/
+	div.box{
+	width: 1800px;
+	height:1500px;
+	float:right;
+    padding: 25px;
+    margin: 20px;
+	margin-top:20px;
+	margin-right:20px;
+	
+	
+	
+}
+	/*.coop{
+			margin-left:100px;
+			top:0px;
+		
+	}*/
+	.content{
+		margin-left:0px;
+		margin-right:0px;
+		
+	}
+	
+
+	/*#navbar{*/
+    /*ul.navbar {
+	font-family: "Arial", Times, serif;
+	font-size: 1em;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(0,100,0,0.5);
+    }
+
+    .navbar li {
+    float: left;
+    }
+
+    .navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+	margin-left:7em;
+    padding: 14px 30px;
+    text-decoration: none;
+    }
+
+    .navbar li a:hover {
+	color:black;
+    background-color: darkgreen;
+    }*/
+
+	
+	/*.slider{
+	float: left;
+	margin-left:4em;
+	margin-bottom:2.8em;
+	width:210%;
+	height:30%;
+	}
+    .mySlides{
+	width:210%;
+	height:30%;		
+    transition:1s ease-in-out;
+   -moz-transition:1s ease-in-out;
+   -webkit-transition:1s ease-in-out;
+	} 
+
+	form { 
+	float: right;
+	font-family: "Arial", Times, serif;
+	font-weight:bolder;
+	font-size: 1em;
+	margin-top:0.01em;
+	margin-right:8em;
+	width: 35em;
+    height:25em;	
+	/*background-color: rgba(0,100,0,0.5);
+
+	}
+	::-moz-placeholder { /* Firefox 19+ */
+	/*color: gray;
+	}
+	:-ms-input-placeholder { /* IE 10+ */
+	/*color: gray;
+	}
+	:-moz-placeholder { /* Firefox 18- */
+	/*color: gray;
+	}
+	::-webkit-input-placeholder { 
+	color: gray;
+	font-size: 1.2em;
+
+	}
+	label {float: left; width: 10em; color:white; font-size:1.3em;}
+	input[type=text] { float: right;margin-right:2em; width: 20em; height:2em; }
+	input[type=password] { float: right;margin-right:2em; width: 20em; height:2em;   }
+	input[type=submit] {  float:left;margin-left:8em; width: 7 em; font-size:1.2em; height: 2em; -moz-border-radius: 0.5em; border-radius: 0.5em; -webkit-border-radius: 0.5em; }
+	.signin a{
+	position:relative;
+	margin-left:1em;
+	margin-right:2em;
+	margin-top:25em;
+	/*margin-right:10em;
+	margin-left:7.2em;
+	margin-top:2em;*/
+	/*font-size:1.2em;
+		}
+	a:link{
+		color:white;
+	}
+	a:visited{
+		color:white;
+	}
+	a:hover{
+		color:blue;
+	}
+	a:focus{
+		color:red;
+	}
+	*/
+/*    .ttl{
+	
+	color: red; text-transform: uppercase; text-shadow: 4px 4px 1 #000, margin: 10px 0 24px;
+	font-size:3em;
+    line-height: 2%;
+	font-family: "Times New Roman", Times, serif;
+    }*/
+
+
